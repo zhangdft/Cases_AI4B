@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+.env
+
+# VASP Output (Large Files)
+Case_2/DFT/WAVECAR
+Case_2/DFT/CHGCAR
+Case_2/DFT/CHG
+Case_2/DFT/PROCAR
+Case_2/DFT/LOCPOT
+Case_2/DFT/AECCAR*
+
+# OS specific
+.DS_Store
+Thumbs.db
