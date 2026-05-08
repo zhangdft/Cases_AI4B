@@ -1,0 +1,12 @@
+t,end_a_id,end_a_name,end_b_id,end_b_name,tanimoto_to_a,tanimoto_to_b,nn1_id,nn1_name,nn1_family,nn1_tanimoto
+0.0,241,tetrahydrofuran,232,"1,2-dimethoxyethane",0.75,0.0,241,tetrahydrofuran,ether,0.75
+0.1,241,tetrahydrofuran,232,"1,2-dimethoxyethane",0.625,0.0,241,tetrahydrofuran,ether,0.625
+0.2,241,tetrahydrofuran,232,"1,2-dimethoxyethane",0.625,0.0,241,tetrahydrofuran,ether,0.625
+0.30000000000000004,241,tetrahydrofuran,232,"1,2-dimethoxyethane",0.5,0.0,241,tetrahydrofuran,ether,0.5
+0.4,241,tetrahydrofuran,232,"1,2-dimethoxyethane",0.1111111111111111,0.1111111111111111,066,methyl methyl ether,ether,0.2
+0.5,241,tetrahydrofuran,232,"1,2-dimethoxyethane",0.0,0.125,066,methyl methyl ether,ether,0.25
+0.6000000000000001,241,tetrahydrofuran,232,"1,2-dimethoxyethane",0.0,0.25,067,methyl ethyl ether,ether,0.25
+0.7000000000000001,241,tetrahydrofuran,232,"1,2-dimethoxyethane",0.0,0.2222222222222222,067,methyl ethyl ether,ether,0.375
+0.8,241,tetrahydrofuran,232,"1,2-dimethoxyethane",0.0,0.2,079,n-propyl n-propyl ether,ether,0.4
+0.9,241,tetrahydrofuran,232,"1,2-dimethoxyethane",0.0,0.3,079,n-propyl n-propyl ether,ether,0.5
+1.0,241,tetrahydrofuran,232,"1,2-dimethoxyethane",0.0,0.36363636363636365,079,n-propyl n-propyl ether,ether,0.5454545454545454

@@ -1,0 +1,12 @@
+t,end_a_id,end_a_name,end_b_id,end_b_name,tanimoto_to_a,tanimoto_to_b,nn1_id,nn1_name,nn1_family,nn1_tanimoto
+0.0,001,methyl methyl carbonate,006,ethyl ethyl carbonate,0.38461538461538464,0.4,194,butan-2-one,ketone,0.5
+0.1,001,methyl methyl carbonate,006,ethyl ethyl carbonate,0.38461538461538464,0.4,194,butan-2-one,ketone,0.5
+0.2,001,methyl methyl carbonate,006,ethyl ethyl carbonate,0.3076923076923077,0.42857142857142855,194,butan-2-one,ketone,0.5454545454545454
+0.30000000000000004,001,methyl methyl carbonate,006,ethyl ethyl carbonate,0.3076923076923077,0.42857142857142855,194,butan-2-one,ketone,0.5454545454545454
+0.4,001,methyl methyl carbonate,006,ethyl ethyl carbonate,0.3076923076923077,0.42857142857142855,194,butan-2-one,ketone,0.5454545454545454
+0.5,001,methyl methyl carbonate,006,ethyl ethyl carbonate,0.38461538461538464,0.5,010,n-propyl n-propyl carbonate,carbonate,0.5333333333333333
+0.6000000000000001,001,methyl methyl carbonate,006,ethyl ethyl carbonate,0.38461538461538464,0.5,010,n-propyl n-propyl carbonate,carbonate,0.5333333333333333
+0.7000000000000001,001,methyl methyl carbonate,006,ethyl ethyl carbonate,0.38461538461538464,0.5,010,n-propyl n-propyl carbonate,carbonate,0.5333333333333333
+0.8,001,methyl methyl carbonate,006,ethyl ethyl carbonate,0.38461538461538464,0.5,010,n-propyl n-propyl carbonate,carbonate,0.5333333333333333
+0.9,001,methyl methyl carbonate,006,ethyl ethyl carbonate,0.38461538461538464,0.5,010,n-propyl n-propyl carbonate,carbonate,0.5333333333333333
+1.0,001,methyl methyl carbonate,006,ethyl ethyl carbonate,0.35714285714285715,0.5714285714285714,010,n-propyl n-propyl carbonate,carbonate,0.6

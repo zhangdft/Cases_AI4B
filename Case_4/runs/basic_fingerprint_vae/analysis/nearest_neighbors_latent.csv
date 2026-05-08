@@ -1,0 +1,21 @@
+query,query_id,query_name,query_smiles,rank,nn_id,nn_name,nn_smiles,nn_family,l2_dist
+EC,257,ethylene carbonate,O=C1OCCO1,1,257,ethylene carbonate,O=C1OCCO1,carbonate,0.0
+EC,257,ethylene carbonate,O=C1OCCO1,2,261,beta-propiolactone,O=C1OCC1,lactone,0.12670613825321198
+EC,257,ethylene carbonate,O=C1OCCO1,3,268,2-oxazolidinone,O=C1NCCO1,cyclic_urethane,0.1439453810453415
+EC,257,ethylene carbonate,O=C1OCCO1,4,207,cyclopentanone,O=C1CCCC1,ketone,0.25926676392555237
+EC,257,ethylene carbonate,O=C1OCCO1,5,258,propylene carbonate,CC1COC(=O)O1,carbonate,0.2999289929866791
+EC,257,ethylene carbonate,O=C1OCCO1,6,208,cyclohexanone,O=C1CCCCC1,ketone,0.3553032875061035
+EC,257,ethylene carbonate,O=C1OCCO1,7,209,cycloheptanone,O=C1CCCCCC1,ketone,0.3553032875061035
+EC,257,ethylene carbonate,O=C1OCCO1,8,265,2-pyrrolidone,O=C1NCCC1,lactam,0.41726550459861755
+EC,257,ethylene carbonate,O=C1OCCO1,9,259,vinylene carbonate,O=C1OC=CO1,carbonate,0.458482950925827
+EC,257,ethylene carbonate,O=C1OCCO1,10,269,N-methyl-2-oxazolidinone,CN1CCOC1=O,cyclic_urethane,0.4697055220603943
+DME,232,"1,2-dimethoxyethane",COCCOC,1,232,"1,2-dimethoxyethane",COCCOC,ether,0.0
+DME,232,"1,2-dimethoxyethane",COCCOC,2,247,"1,3-dimethoxypropane",COCCCOC,ether,0.21951824426651
+DME,232,"1,2-dimethoxyethane",COCCOC,3,068,methyl n-propyl ether,COCCC,ether,0.42369577288627625
+DME,232,"1,2-dimethoxyethane",COCCOC,4,067,methyl ethyl ether,COCC,ether,0.5236353278160095
+DME,232,"1,2-dimethoxyethane",COCCOC,5,246,"1,2-dimethoxypropane",COC(C)COC,ether,0.6654471158981323
+DME,232,"1,2-dimethoxyethane",COCCOC,6,191,3-methoxypropanenitrile,COCCC#N,nitrile,0.7892419099807739
+DME,232,"1,2-dimethoxyethane",COCCOC,7,070,methyl n-butyl ether,COCCCC,ether,0.7915417551994324
+DME,232,"1,2-dimethoxyethane",COCCOC,8,073,ethyl ethyl ether,CCOCC,ether,0.7963426113128662
+DME,232,"1,2-dimethoxyethane",COCCOC,9,084,isopropyl isopropyl ether,C(C)COC(C)C,ether,0.8214651942253113
+DME,232,"1,2-dimethoxyethane",COCCOC,10,080,n-propyl isopropyl ether,CCCOC(C)C,ether,0.8214651942253113

@@ -1,0 +1,13 @@
+{
+  "n_total": 253,
+  "n_train": 202,
+  "n_val": 25,
+  "n_test": 26,
+  "device": "cuda",
+  "best_val_total": 46.73247528076172,
+  "test_total": 37.934898376464844,
+  "test_recon": 33.953338623046875,
+  "test_kld": 3.981560230255127,
+  "val_mean_recon_tanimoto": 0.41900626838350624,
+  "test_mean_recon_tanimoto": 0.42739732035598293
+}

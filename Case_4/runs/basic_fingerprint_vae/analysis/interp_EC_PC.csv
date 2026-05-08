@@ -1,0 +1,12 @@
+t,end_a_id,end_a_name,end_b_id,end_b_name,tanimoto_to_a,tanimoto_to_b,nn1_id,nn1_name,nn1_family,nn1_tanimoto
+0.0,257,ethylene carbonate,258,propylene carbonate,0.46153846153846156,0.23809523809523808,261,beta-propiolactone,lactone,0.5833333333333334
+0.1,257,ethylene carbonate,258,propylene carbonate,0.46153846153846156,0.23809523809523808,261,beta-propiolactone,lactone,0.5833333333333334
+0.2,257,ethylene carbonate,258,propylene carbonate,0.46153846153846156,0.23809523809523808,261,beta-propiolactone,lactone,0.5833333333333334
+0.30000000000000004,257,ethylene carbonate,258,propylene carbonate,0.46153846153846156,0.23809523809523808,261,beta-propiolactone,lactone,0.5833333333333334
+0.4,257,ethylene carbonate,258,propylene carbonate,0.46153846153846156,0.23809523809523808,261,beta-propiolactone,lactone,0.5833333333333334
+0.5,257,ethylene carbonate,258,propylene carbonate,0.46153846153846156,0.23809523809523808,261,beta-propiolactone,lactone,0.5833333333333334
+0.6000000000000001,257,ethylene carbonate,258,propylene carbonate,0.46153846153846156,0.23809523809523808,261,beta-propiolactone,lactone,0.5833333333333334
+0.7000000000000001,257,ethylene carbonate,258,propylene carbonate,0.46153846153846156,0.23809523809523808,261,beta-propiolactone,lactone,0.5833333333333334
+0.8,257,ethylene carbonate,258,propylene carbonate,0.46153846153846156,0.23809523809523808,261,beta-propiolactone,lactone,0.5833333333333334
+0.9,257,ethylene carbonate,258,propylene carbonate,0.46153846153846156,0.23809523809523808,261,beta-propiolactone,lactone,0.5833333333333334
+1.0,257,ethylene carbonate,258,propylene carbonate,0.46153846153846156,0.23809523809523808,261,beta-propiolactone,lactone,0.5833333333333334
